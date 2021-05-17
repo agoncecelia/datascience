@@ -1,2 +1,2 @@
-print("Hello from Kosovo")
+print("Hello from Prishtina")
 
